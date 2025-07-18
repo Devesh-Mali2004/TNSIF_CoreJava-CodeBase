@@ -1,4 +1,4 @@
-package com.TNSIF.D1;
+package Day_02;
 
 public class Variables {
 	public static void main(String[] args) {
