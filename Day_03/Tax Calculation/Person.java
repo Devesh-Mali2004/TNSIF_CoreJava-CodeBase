@@ -1,4 +1,4 @@
-package com.Tax.project;
+package Tax Calculation;
 
 public class Person {
 	private String name;
