@@ -1,4 +1,4 @@
-package com.TNSIF.D1;
+package Day_03;
 
 public class Loops {
 
